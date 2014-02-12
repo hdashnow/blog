@@ -1,7 +1,7 @@
 Writing Gym
 ===========
 
-Not too long ago, I was discussing that well-known academic saw of "publish
+Not too long ago, I was discussing that well-known academic law of "publish
 or perish" with a seasoned bioinformatician. I was bemoaning my feelings
 of poor progress in my PhD, and pointed out that I often don't feel like
 I have results ready to write up.
@@ -66,7 +66,7 @@ although you can definitely use Writing Gym for that.
 We encourage writing that could potentially be shared with others,
 therefore no emails or facebook updates. (But, you know, it's not like we're going
 to get angry and kick people out if they decide to quietly procrastinate.)
-Examples of writing done so far have been preparing for blog posts,
+Examples of writing done so far have been preparing blog posts,
 writing conference abstracts and starting work on a submission for the
 [Taming of Chance story competition](http://tamingofchance.vretta.com/).
 If you get stuck for ideas, you could always summarise one of the papers from Journal Club.
@@ -90,7 +90,7 @@ would always be welcome. Maybe it wouldn't hurt to precede the pomodoro
 sessions with micro-workshops, short discussions on things such as good
 writing style, document-writing languages such as LaTeX or Markdown,
 why text-editors are better than word processors,
-and how best to use git to version control a document written in natural language?
+and how best to use git to version control a document written in natural language.
 But such things would depend on the
 interests and goals of those attending, and whether it would get in the
 way of drinking coffee while defending our hands from possessed laptops.
